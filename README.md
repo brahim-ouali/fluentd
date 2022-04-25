@@ -1,6 +1,7 @@
 # fluentd
 
 My fluentd distribution with useful plugins.
+Based on the bitnami image
 
 ## List of plugins
 
@@ -15,4 +16,3 @@ My fluentd distribution with useful plugins.
 - fluent-plugin-filter-parse-audit-log
 - fluent-plugin-nostat
 - fluent-plugin-filter-parse-audit-log
-- fluent-plugin-systemd
